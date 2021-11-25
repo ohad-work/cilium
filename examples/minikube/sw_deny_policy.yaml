@@ -9,3 +9,5 @@ spec:
       org: empire
   ingress:
   - {}
+  egress:
+  - {}
